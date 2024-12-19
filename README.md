@@ -81,7 +81,7 @@ Once the input file is selected, the classifier will output the predictions for 
 
 ## Contributors
 
-| [<img src="https://avatars3.githubusercontent.com/u/4924614" width="100px;"/><br /><sub><b>Arun Michael Dsouza</b></sub>](https://github.com/ArunMichaelDsouza)<br />| [<img src="https://avatars3.githubusercontent.com/u/11679543" width="100px;"/><br /><sub><b>Royal Bhati</b></sub>](https://github.com/royalbhati)<br />|
+| [<img src="https://github.com/user-attachments/assets/a0696688-41a8-4635-b2b3-b254b4498d77" width="100px;"/><br /><sub><b>Devansh Prakash</b></sub>]<br />|
 | :---: | :---: |
 
 <br/>
@@ -97,7 +97,7 @@ If you'd like to help support the development of the project, please consider ba
 ## License
 MIT License
 
-Copyright (c) 2017 Arun Michael Dsouza
+Copyright (c) 2017 Deavansh Prakash
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
