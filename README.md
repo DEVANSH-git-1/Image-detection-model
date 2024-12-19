@@ -66,7 +66,7 @@ python3 classify.py
 
 This opens up the file dialog using which you can select your input file.
 
-<img src="https://raw.githubusercontent.com/ArunMichaelDsouza/tensorflow-image-detection/master/file-dialog.png"/>
+<img src="https://github.com/user-attachments/assets/3b881e60-9390-4f61-89d5-cc3cb1fcacf1"/>
 
 Once the input file is selected, the classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
 
