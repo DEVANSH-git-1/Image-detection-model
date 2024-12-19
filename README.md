@@ -79,18 +79,14 @@ Once the input file is selected, the classifier will output the predictions for 
 
 <br/>
 
-## Contributors
+## Creator
 
 | [<img src="https://github.com/user-attachments/assets/a0696688-41a8-4635-b2b3-b254b4498d77" width="100px;"/><br /><sub><b>Devansh Prakash</b></sub>]<br />|
 | :---: | :---: |
 
 <br/>
 
-## Support
 
-If you'd like to help support the development of the project, please consider backing me on Patreon -
-
-[<img src="https://arunmichaeldsouza.com/img/patreon.png" width="180px;"/>](https://www.patreon.com/bePatron?u=8841116)
 
 <br/>
 
